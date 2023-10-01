@@ -1,5 +1,8 @@
 bot_sessions
 node_modules
 ```
+core.class.log
+queue.class.log
+```
 
 .env
